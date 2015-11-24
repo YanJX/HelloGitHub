@@ -1,0 +1,1 @@
+git inint   // Initalized empty Git repository in the current directory
