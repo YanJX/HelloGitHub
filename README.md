@@ -1,5 +1,4 @@
 # HelloGitHub
-**github使用测试**
 # Mou
 
 ![Mou icon](http://25.io/mou/Mou_128.png)
