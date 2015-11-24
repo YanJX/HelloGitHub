@@ -6,3 +6,5 @@ git branch develop    		// 创建develop分支
 git checkout devlop             // 切换到devlop分支
 
 git checkout -b devlop 		// 该命令效果等同于以上两个命令 git checkout命令加上-b参数表示创建并切换
+
+// 用git log --graph命令可以看到分支合并图。
