@@ -15,3 +15,4 @@ git checkout -b <name> 		// 该命令效果等同于以上两个命令 git check
 git merge <name>		// 合并某个分支到当前分支 ex：git merge develop
 
 git branch -d <name>		// 删除分支 ex：git branch -d develop
+
