@@ -2,3 +2,4 @@ Creating a new branch is quick AND simple.
 add new line in master branch
 add new line in dev branch
 sjdksajdkasjdasd
+—-master
